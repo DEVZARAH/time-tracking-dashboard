@@ -67,7 +67,7 @@ li {
 .con {
   width: 200px;
   height: 200px;
-  background-image: url("/img/icon-work.svg");
+  background-image: url("../img/icon-work.svg");
   background-repeat: no-repeat;
   background-position: top right;
   background-color: var(--work);
@@ -79,7 +79,7 @@ li {
 .con1 {
   width: 200px;
   height: 200px;
-  background-image: url("/img/icon-play.svg");
+  background-image: url("../img/icon-play.svg");
   background-repeat: no-repeat;
   background-position: top right;
   background-color: var(--play);
@@ -91,7 +91,7 @@ li {
 .con2 {
   width: 200px;
   height: 200px;
-  background-image: url("/img/icon-study.svg");
+  background-image: url("../img/icon-study.svg");
   background-repeat: no-repeat;
   background-position: top right;
   background-color: var(--study);
@@ -103,7 +103,7 @@ li {
 .con3 {
   width: 200px;
   height: 200px;
-  background-image: url("/img/icon-exercise.svg");
+  background-image: url("../img/icon-exercise.svg");
   background-repeat: no-repeat;
   background-position: top right;
   background-color: var(--exercise);
@@ -115,7 +115,7 @@ li {
 .con4 {
   width: 200px;
   height: 200px;
-  background-image: url("/img/icon-social.svg");
+  background-image: url("../img/icon-social.svg");
   background-repeat: no-repeat;
   background-position: top right;
   background-color: var(--social);
@@ -127,7 +127,7 @@ li {
 .con5 {
   width: 200px;
   height: 200px;
-  background-image: url("/img/icon-self-care.svg");
+  background-image: url("../img/icon-self-care.svg");
   background-repeat: no-repeat;
   background-position: top right;
   background-color: var(--selfcare);
